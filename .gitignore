@@ -1,0 +1,7 @@
+cdi-client/.gradle/
+cdi-client/.idea/
+cdi-client/build/
+cdi-client/classes/
+
+cdi/.idea/
+cdi/build/
