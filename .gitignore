@@ -5,3 +5,5 @@ cdi-client/classes/
 
 cdi/.idea/
 cdi/build/
+cdi/.gradle/
+
